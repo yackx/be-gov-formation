@@ -1,8 +1,8 @@
 # be-gov-formation
 
-**be-gov-formation attempts to form a governement after the 2019 Belgian federal elections**
+**Program to form a governement after the 2019 Belgian federal elections 🇧🇪**
 
-For the impatient: [a sample of possible government](sample.txt).
+For the impatient: [a sample of possible governments](sample.txt).
 
 Forming a governement after the recent Belgian elections is more challenging than ever. It is said that it might be impossible. Belgium holds the [world record](https://en.wikipedia.org/wiki/2010%E2%80%9311_Belgian_government_formation) as a country without an elected gouvernment since the 2010-11 crisis.
 
@@ -12,11 +12,11 @@ and the will to keep a balance in the FR/NL repartition.
 
 ![](elections.png)
 
+*Photo credit: La Libre*
+
 ## Usage
 
-Checkout or download this project, or simply the single file [solve.py](solve.py).
-
-You need to have Python 3 installed. There are no dependencies.
+Checkout or download this project, or simply the single file [solve.py](solve.py). You need to have Python 3 installed. There are no dependencies.
 
 ```
 $ python solve.py 
