@@ -46,5 +46,5 @@ It can be used by curious citizens, politicians, person in charge of the governm
 
 ## License
 
-This project is free software, because the Belgian people badly need it.
-[Licensed under the GNU GENERAL PUBLIC LICENSE, version 3](LICENSE.txt).
+This project is free software, because the Belgian people badly need it. [Licensed under the GNU GENERAL PUBLIC LICENSE, version 3](LICENSE.txt). THERE IS NO WARRANTY FOR THIS PROGRAM, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW. Use at your own risk.
